@@ -1,2 +1,2 @@
 # softUni
-Mine education project. OKAY
+Mine education project.
