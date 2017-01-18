@@ -1,2 +1,2 @@
-# softUni
+# SOFTUNI
 Mine education project.
