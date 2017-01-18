@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace letterAtoZ
 {
-    class Program
+    class letterAtoZ
     {
         static void Main(string[] args)
         {
