@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "centuriesToMinutes", "centuriesToMinutes\centuriesToMinutes.csproj", "{5F761722-89DE-42B2-A2EB-8843FCC509F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiesToMinutes", "centuriesToMinutes\CenturiesToMinutes.csproj", "{5F761722-89DE-42B2-A2EB-8843FCC509F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circleArea", "circleArea\circleArea.csproj", "{E3B75A0C-84FC-430E-84BE-A86BDB7B8CD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "circleArea\CircleArea.csproj", "{E3B75A0C-84FC-430E-84BE-A86BDB7B8CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exactSumOfRealNumbers", "exactSumOfRealNumbers\exactSumOfRealNumbers.csproj", "{EE122090-272E-416F-9EE7-267F6C4B1ECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumOfRealNumbers", "exactSumOfRealNumbers\ExactSumOfRealNumbers.csproj", "{EE122090-272E-416F-9EE7-267F6C4B1ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elevator", "elevator\elevator.csproj", "{5B587343-ED79-4965-89BC-5816A1A53FB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "elevator\Elevator.csproj", "{5B587343-ED79-4965-89BC-5816A1A53FB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "specialNumbers", "specialNumbers\specialNumbers.csproj", "{47C0ADB9-89A1-4CFB-955D-4DE83432F7EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "specialNumbers\SpecialNumbers.csproj", "{47C0ADB9-89A1-4CFB-955D-4DE83432F7EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triplesOfLatinLetters", "triplesOfLatinLetters\triplesOfLatinLetters.csproj", "{D2CBC0CE-5584-479E-89E9-C15DA84DCF69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriplesOfLatinLetters", "triplesOfLatinLetters\TriplesOfLatinLetters.csproj", "{D2CBC0CE-5584-479E-89E9-C15DA84DCF69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "greeting", "greeting\greeting.csproj", "{BF2E054D-089D-49A2-964B-2ACC2BAAF1B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting", "greeting\Greeting.csproj", "{BF2E054D-089D-49A2-964B-2ACC2BAAF1B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refactorVolumeOfPyramid", "refactorVolumeOfPyramid\refactorVolumeOfPyramid.csproj", "{D7E8E341-3D7F-4A60-8F0D-1A4837BE20F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorVolumeOfPyramid", "refactorVolumeOfPyramid\RefactorVolumeOfPyramid.csproj", "{D7E8E341-3D7F-4A60-8F0D-1A4837BE20F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refactorSpecialNumbers", "refactorSpecialNumbers\refactorSpecialNumbers.csproj", "{68C7D34E-734D-4E38-A454-E811C597F80B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorSpecialNumbers", "refactorSpecialNumbers\RefactorSpecialNumbers.csproj", "{68C7D34E-734D-4E38-A454-E811C597F80B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

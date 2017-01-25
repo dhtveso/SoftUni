@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace triplesOfLatinLetters
+namespace TriplesOfLatinLetters
 {
-    class triplesOfLatinLetters
+    public class TriplesOfLatinLetters
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
 

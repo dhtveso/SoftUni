@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace centuriesToMinutes
+namespace CenturiesToMinutes
 {
-    class centuriesToMinutes
+    public class CenturiesToMinutes
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int centuries = int.Parse(Console.ReadLine());
             int years = 100 * centuries;

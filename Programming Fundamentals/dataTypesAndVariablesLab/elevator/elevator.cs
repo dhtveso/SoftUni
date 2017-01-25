@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace elevator
+namespace Elevator
 {
-    class elevator
+    public class Elevator
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             double numberOfPeople = double.Parse(Console.ReadLine());
             double capacityOfTheElevator = double.Parse(Console.ReadLine());

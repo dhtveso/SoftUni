@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace refactorVolumeOfPyramid
+namespace RefactorVolumeOfPyramid
 {
-    class refactorVolumeOfPyramid
+    public class RefactorVolumeOfPyramid
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.Write("Length: ");
             double length = double.Parse(Console.ReadLine());
@@ -24,7 +20,6 @@ namespace refactorVolumeOfPyramid
             pyramidVolume = (length * width * height) / 3;
 
             Console.WriteLine("Pyramid Volume: {0:F2}", pyramidVolume);
-
         }
     }
 }
